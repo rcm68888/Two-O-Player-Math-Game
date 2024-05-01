@@ -1,6 +1,6 @@
 # Main file to start math game
 
-require "./Game"
+require "./game.rb"
 
 puts "Welcome to the math game! Get Ready ..."
 

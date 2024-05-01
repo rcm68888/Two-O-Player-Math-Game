@@ -1,4 +1,4 @@
-require "./Player"
+require "./player.rb"
 
 class Game
   attr_accessor :player1, :player2
